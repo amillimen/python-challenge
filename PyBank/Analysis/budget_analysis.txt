@@ -1,0 +1,8 @@
+
+Revenue Data Analysis 
+---------------------------
+	Total Months = 86
+	Total  = 22,564,198.00
+	Average Change Per Month = $-8,311.11 
+	Greatest Increase Month = 16-Aug Amount = $1,862,002.00 
+	Greatest Decrease Month = 14-Feb Amount = $-1,825,558.00 
